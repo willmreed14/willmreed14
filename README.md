@@ -1,6 +1,6 @@
 ## Hi there, I'm Will 👋🏼
 
-I'm a Web Developer with a passion for bringing ideas to life by leveraging timeless principles with modern tools. Growing up in the 2000's, I began experimenting with computers at a young age, which is what sparked my passion for problem-solving. I've also always had an artistic side, which I've expressed through graphic design, electronic music, and now: web applications that are sleek, responsive, and accessible.
+I'm a Web Developer with a passion for bringing ideas to life by leveraging timeless principles with modern tools. Growing up in the 2000's, I began experimenting with computers at a young age, which is what sparked my passion for problem-solving. I've also always had an artistic side, which I've expressed through graphic design, electronic music, and now: **web applications that are sleek, responsive, and accessible.**
 
 I'm currently working on **Full Stack Applications**, **iOS Projects**, and **UI/UX Design**. I graduated with a Bachelor's in Computer Science from FAU in December of 2024, and I'm continuing to expand my skillset by bringing ideas to fruition and learning at each step in the process.
 
