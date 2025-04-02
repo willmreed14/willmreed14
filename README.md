@@ -10,8 +10,8 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=willmreed14&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 <span>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=willmreed14&theme=dark&hide_border=true" height="200" width="auto"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmreed14&layout=compact&theme=dark&hide_border=true" height="200" width="auto"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=willmreed14&theme=dark&hide_border=true" height="150" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmreed14&layout=compact&theme=dark&hide_border=true" height="150" width="auto"/>
 </span>
 
 <!--
