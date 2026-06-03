@@ -14,11 +14,7 @@ Currently working on **Full Stack Web Applications**, I graduated with a Bachelo
 [![My Skills](https://skillicons.dev/icons?i=ts,java,postgres,docker,googlecloud,azure,figma)](https://skillicons.dev)
 
 ## GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=willmreed14&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-<span>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=willmreed14&theme=dark&hide_border=true" height="150" width="auto"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmreed14&layout=compact&theme=dark&hide_border=true" height="150" width="auto"/>
-</span>
+[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=willmreed14&theme=dark)](https://git.io/streak-stats)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/will-m-reed) 
